@@ -7,4 +7,5 @@ functionAnkit() {
 function()
 {
     console.log("This is message for Git Demo")
+    console.log("Okay, so we will be applying fix for the patch")
 }
